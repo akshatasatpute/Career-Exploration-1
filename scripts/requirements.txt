@@ -1,0 +1,7 @@
+boto3==1.28.18
+fpdf==1.7.2
+pandas==1.5.3
+Pillow==9.4.0
+streamlit==1.24.0
+streamlit_option_menu==0.3.6
+openpyxl==3.0.9
