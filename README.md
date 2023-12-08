@@ -30,13 +30,13 @@ This readme applies to individuals involved in utilizing and managing the Career
 ### Running the Streamlit Career Exploration App:
 
 #### Method 1: Using GUI.bat File
-1. Locate the `GUI.bat` file in the `src/` directory.
+1. Locate the `GUI.bat` file in the `scripts/` directory.
 2. Double-click on `GUI.bat` to launch the application.
 3. Alternatively, create a shortcut for `GUI.bat` on your desktop for convenient access.
 
 #### Method 2: Using Streamlit Script
 1. Open a command prompt or terminal.
-2. Navigate to the `src/` directory using `cd path/to/your/application`.
+2. Navigate to the `scripts/` directory using `cd path/to/your/application`.
 3. Run the command: `streamlit run Home.py`.
 4. Access the GUI at the provided URL (usually http://localhost:8501).
 5. Enter your details and explore career options.
