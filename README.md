@@ -66,7 +66,7 @@ This readme applies to individuals involved in utilizing and managing the Career
 2. Display the next page using appropriate functions.
 
 #### Running the Application:
-- Follow Method 1 or Method 2 as mentioned in User Instructions.
+- Follow Method 1 or Method 2 as mentioned in Instructions.
 
 ## Conclusion:
 By following this comprehensive readme, users can effectively run the Career-Exploration GUI application, generate PDF reports, and developers can maintain and update the application.
