@@ -1,6 +1,10 @@
 # Career-Exploration
 
-## Demo : http://ec2-13-49-44-221.eu-north-1.compute.amazonaws.com:8501/
+Welcome to the Career-Exploration GUI application! This app allows you to explore career details and generate PDF reports.
+
+## Demo
+
+Visit the [Demo](http://ec2-13-49-44-221.eu-north-1.compute.amazonaws.com:8501/) to explore the application.
 
 ## Objective:
 This readme provides detailed instructions for running the Career-Exploration GUI application, exploring career and college details, and generating PDF reports. It serves as a guide for users, developers, and administrators, ensuring consistency, accuracy, and ease of use.
@@ -13,7 +17,7 @@ This readme applies to individuals involved in utilizing and managing the Career
 - `data_files/`: Placeholder for any data files required by the application.
 - `sop/`: Documentation files related to the project.
 - `graphics/`: Images and logo files related to the project.
-- 's3_code/': Python script to deploy files on s3.
+- `s3_code/`: Python script to deploy files on s3.
 
 ## Prerequisites:
 1. Python installed (version 3.6 or higher).
